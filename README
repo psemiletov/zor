@@ -1,0 +1,36 @@
+ZOR = Zoom, Overlay, Rotate
+
+======ABOUT=======
+
+ZOR is a tool to show some semi-transparent image over another program (for example, Google Earth) and allow to zoom and rotate an image.
+To function normally, ZOR needs Windows 7 or Linux (with Compozite extension turned on).
+
+Control keys are:
+
+F1 - help
+Ctrl-Q - quit
+left/right - rotate
+up/down - increase/decrease transparency level
+o - reset to original
+m - mirror image 
+
+
+===INSTALLATION===
+
+If you have installed Qt 4, just run:
+
+qmake
+make
+make install
+
+Then run:
+
+zor
+
+===DEPENDENCIES===
+
+Qt 4.4 or higher. 
+
+===LICENSE NOTES===
+
+ZOR code is the Public domain.

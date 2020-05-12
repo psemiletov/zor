@@ -1,0 +1,19 @@
+=====NEWS ABOUT TEA====
+TEA 32.0.1, March 11 2012
+---------------------------------------
+http://tea-editor.sourceforge.net
+---------------------------------------
+
+   This release (32, the 32.0.1 adds some fixes) has a lot of new fetaures. First of all, the moon calendar - as the mode of the usual built-in calendar. By the way, TODO tab is renamed to "Dates". The "Calendar" menu has new functions, please read the Manual. So the calendar now is the useful tool, not just the simple planner.
+   The storage files. Any opened file can be choosed as the "storage". Then you can copy to it directly via "Copy to storage file" menu item or the keyboard shortcut. Clipboard text capturing (system globally) to the storage file is optional.
+   UI and document tabs can be placed in any side of the main window. See "Tune - Common" options page.
+   ODT, other XML-based formats importer has been improved.
+  Basic Python syntax highlighting.
+  Major inner changes, code restructurization. Some portions of the code are Public Domain now, while others stay in GPL v3.
+
+   ***
+
+   If you want to support TEA via donation, better give your support to the Ukrainian dog shelter Lyubas House - http://lyubas.ho.ua/. There are lot of dogs with disabilities, and they need help more than TEA.
+   
+   Stay tuned.
+   Peter 'Roxton' Semiletov
