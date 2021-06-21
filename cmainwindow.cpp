@@ -47,7 +47,9 @@ CMainWindow::CMainWindow (QWidget *parent): QMainWindow (parent)
   setWindowOpacity (0.5f);
 
 
-  setWindowFlags (Qt::WindowStaysOnTopHint);
+//  setWindowFlags (Qt::WindowStaysOnTopHint);
+
+  setWindowFlags(windowFlags() | Qt::WindowStaysOnTopHint);
 
 
   QAction *quitAction = new QAction (tr ("E&xit"), this);
