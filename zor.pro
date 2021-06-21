@@ -1,7 +1,7 @@
 VERSION = 0.0.3
-QT += core gui
+QT += core
+QT += gui
 
-#TARGET = zor
 TEMPLATE = app
 
 CONFIG += warn_on \

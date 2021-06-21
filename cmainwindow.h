@@ -1,7 +1,9 @@
 #ifndef CMAINWINDOW_H
 #define CMAINWINDOW_H
 
+#include <QObject>
 #include <QtGui>
+#include <QMainWindow>
 
 class CMainWindow : public QMainWindow
 {

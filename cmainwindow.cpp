@@ -4,7 +4,14 @@ Public domain program by Peter Semiletov
 created 2012.03.28
 */
 
+#include <QApplication>
+#include <QFileDialog>
+#include <QLabel>
+#include <QDesktopWidget>
+#include <QAction>
+
 #include "cmainwindow.h"
+
 
 
 bool file_exists (const QString &fileName)
